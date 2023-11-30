@@ -2,7 +2,7 @@
 
 My presentation page.
 
-![preview](./.github/preview.png)
+![preview](./Filesgithub/preview.png)
 
 [Click here to access !](https://sjbatista.github.io/my_page/)
 
